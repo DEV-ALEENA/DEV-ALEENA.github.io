@@ -1,0 +1,67 @@
+img{
+    size: 100px;
+}
+body{
+    background-image: url('Newfolder/69722965_2220475754717378_7240122689803780096_o.jpg');
+    height: 100rem;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+a{
+    color: wheat;
+}
+h1{
+    color: rgb(163, 67, 118);
+    font-size: 10rem;
+    text-shadow: fuchsia;
+    text-align: center;
+    background-color: black;
+    padding: 5rem;
+}
+h4{
+   background-color: rgb(163, 67, 118);
+    text-shadow:p3x  10px bl3pxack ;
+    font-size: 5rem;
+}
+h5{
+    font-size: 2rem;
+    color:  rgb(71, 5, 41);
+
+}
+h3{
+    font-size: 4rem;
+    background-color: rgb(163, 67, 118) ;
+    text-decoration: none;
+}
+
+nav h1{
+    float: left;
+     font-size: 2rem;
+    color: rgb(163, 67, 118) ;
+}
+nav ul{
+    float: right;
+    list-style: none; 
+    font-size: 2rem;
+    color: rgb(163, 67, 118) ;
+}
+nav li{
+    float: left;
+    margin: 0rem 4rem;
+     font-size: 2rem;
+    color: rgb(163, 67, 118) ;
+}
+ul{
+    font-size: 3rem;
+    color: rgb(163, 67, 118) ; 
+    background-color: rgb(8, 10, 10); 
+} 
+nav{
+    font-size: 3rem;
+    color: rgb(163, 67, 118) ;
+    background-color:black;
+    text-shadow: fuchsia;
+    text-align: center;
+    padding: 3rem;
+}

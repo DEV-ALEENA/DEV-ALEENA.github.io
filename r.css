@@ -1,0 +1,36 @@
+h1{
+    color: black;
+    background-color:rgb(78, 214, 191);
+    font-size: 4rem;
+}
+h4{
+    font-size: 2rem;
+}
+body{
+    background-image: url('Newfolder/r2.jpg');
+    height: 100rem;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.h-section{
+    height: 40rem;
+    background-color: rgb(78, 214, 191);
+}
+h2{
+    color: black;
+    background-color:rgb(78, 214, 191) ;
+}
+a{
+    text-align: right;
+    font-size: 3rem;
+    color: white;
+    background-color: rgb(78, 214, 191) ;
+    text-decoration: none;
+    text-align: center;
+    float: right;
+}
+.i img{
+    height: 1000px;
+    width: 1000px;
+}

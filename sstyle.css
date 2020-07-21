@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
+.clear{
+    clear: both;
+}
+a{
+    color: black;
+    text-decoration:none ;
+}
+h5{
+    font-size: 2.8rem;
+    color: black ;
+}
+h4{
+    font-size: 9rem;
+    padding: 5rem 0rem;
+    color: white;
+    text-decoration: none;
+    text-underline-offset: none;
+    font-style: italic;
+}
+li{
+    color: crimson;
+    text-decoration: none;
+    font-size: 2.4rem;
+}
+h3{
+    font-size: 5rem;
+    color:  white;
+}
+button{
+    font-size: 1.8rem;
+}
+h1 {
+    color: rgb(204, 35, 125);
+    background-color: black;
+    text-shadow: fuchsia;
+    text-align: center;
+    background-color: black;
+    padding: 10rem;
+    font-size: 10rem;
+}
+
+nav {
+    background: rgb(204, 35, 125);
+    color: black;
+    padding: 3rem;
+}
+nav h5{
+    float: left;
+}
+nav ul{
+    float: right;
+     list-style: none;
+}
+nav li{
+    float: left;
+    margin: 0rem 4rem;
+}
+.h-section{
+    background-image: url('Newfolder/j29szj-Blackpink-3hnx-bb05-jz8w-2019-feat-billboard-rtbgstj-nxsh3zz-1548-1092x722.jpg');
+    height: 100rem;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    color: black;
+    padding-top: 15rem;
+    text-shadow:p3x  10px bl3pxack ;
+}
+ #bl h-section button{
+    margin-top: 4rem;
+    padding: 2rem 4rem;
+    background: rgb(204, 35, 125);
+    border: none;
+    border-radius: 2rem;
+    color: black;
+    cursor: pointer;
+   
+    
+}
+.f-section {
+    text-align: center;
+    font-size: 3rem;
+    color:black;
+}
+form input{
+    display: block;
+    font-size: 2.4rem;
+}
+form button{
+    margin-bottom: 10rem;
+    margin-top: 4rem;
+    padding: 1rem 2rem;
+    background: rgb(204, 35, 125);
+    border: none;
+    border-radius: 2rem;
+    color: black;
+    cursor: pointer;
+}
+form input{
+    margin: 2rem auto;
+    width: 50%;
+}
+h2{
+    color:black;
+     padding: 3rem 0rem;
+}
+.d-sec{
+    margin-bottom: 10rem;
+    margin-top: 4rem;
+    padding: 2rem 4rem;
+    background: rgb(204, 35, 125);
+    border: none;
+    border-radius: 2rem;
+    color: white;
+    cursor: pointer;
+}
